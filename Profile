@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Your Name | TradeTech Strategist</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="hero">
+      <h1>Your Name</h1>
+      <p>TradeTech Strategist | Helping Trades Thrive in a Digital World</p>
+      <a href="#contact" class="btn">Connect with me</a>
+    </div>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a trade-tech enthusiast with a passion for connecting skilled professionals with the right customers, tools, and technology.</p>
+    <p>At Checkatrade, I work with trade businesses and internal teams to shape better journeys, host impactful webinars, and drive initiatives that benefit both trades and homeowners.</p>
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <h3>Checkatrade</h3>
+    <ul>
+      <li>Trade Partnerships & Strategic Engagement</li>
+      <li>Led engagement at Trade Installer Show 2025</li>
+      <li>Launching product roadmap webinars with trade voices</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Featured Work</h2>
+    <h4>Trade Installer Show – Birmingham</h4>
+    <p>Connected with MyEnergi, LG, Hammonds, and others to pitch Checkatrade and listen to real-time trade challenges.</p>
+
+    <h4>Webinar: Product Roadmap & Trade Voices</h4>
+    <p>Hosting WeatherWise as guest speaker to discuss product future and feedback loop with the trade community.</p>
+  </section>
+
+  <section id="testimonials">
+    <h2>Testimonials</h2>
+    <blockquote>
+      “Working with [Your Name] has been an absolute win for us. They really took time to understand what we needed.” – WeatherWise
+    </blockquote>
+    <blockquote>
+      “What stood out was the genuine energy and focus on helping trades, not just selling.” – Jamie, Future Group Ltd
+    </blockquote>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>📧 yourname@email.com</p>
+    <p>🔗 <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn Profile</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Your Name</p>
+  </footer>
+
+</body>
+</html>
